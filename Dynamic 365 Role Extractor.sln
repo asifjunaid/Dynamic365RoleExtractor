@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDSCore", "CDSCore\CDSCore.csproj", "{CE1F7E32-9D60-4507-9BE0-CFA53A285FFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamic 365 Role Extractor", "Dynamic 365 Role Extractor\Dynamic 365 Role Extractor.csproj", "{4554D5C8-A6B6-4D26-B004-A319648EFA92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamic 365 Role Extractor App", "Dynamic 365 Role Extractor App\Dynamic 365 Role Extractor App.csproj", "{93C09DE4-E7B5-46C3-951C-E5FF6B3906D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginControl", "LoginControl\LoginControl.csproj", "{FE6CB7F7-1F2E-44F1-8156-ACB55D8E4369}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE1F7E32-9D60-4507-9BE0-CFA53A285FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE1F7E32-9D60-4507-9BE0-CFA53A285FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE1F7E32-9D60-4507-9BE0-CFA53A285FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE1F7E32-9D60-4507-9BE0-CFA53A285FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4554D5C8-A6B6-4D26-B004-A319648EFA92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4554D5C8-A6B6-4D26-B004-A319648EFA92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4554D5C8-A6B6-4D26-B004-A319648EFA92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4554D5C8-A6B6-4D26-B004-A319648EFA92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93C09DE4-E7B5-46C3-951C-E5FF6B3906D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C09DE4-E7B5-46C3-951C-E5FF6B3906D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C09DE4-E7B5-46C3-951C-E5FF6B3906D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C09DE4-E7B5-46C3-951C-E5FF6B3906D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE6CB7F7-1F2E-44F1-8156-ACB55D8E4369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE6CB7F7-1F2E-44F1-8156-ACB55D8E4369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE6CB7F7-1F2E-44F1-8156-ACB55D8E4369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE6CB7F7-1F2E-44F1-8156-ACB55D8E4369}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57FC6685-38D3-4ACF-A060-83193914929A}
+	EndGlobalSection
+EndGlobal

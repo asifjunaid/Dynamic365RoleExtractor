@@ -1,0 +1,226 @@
+Action Card,Core Records
+Action Card User Settings,Core Records
+Activity,Core Records
+Announcement,Core Records
+Application File,Core Records
+Category,Core Records
+Company,Core Records
+Connection,Core Records
+Connection Role,Core Records
+Customer Relationship,Core Records
+Data Import,Core Records
+Data Map,Core Records
+Data Performance Dashboard,Core Records
+Document Location,Core Records
+Document Suggestions,Core Records
+Duplicate Detection Rule,Core Records
+Email Signature,Core Records
+Email Template,Core Records
+Feedback,Core Records
+Follow,Core Records
+Import Source File,Core Records
+Interaction for Email,Core Records
+Language,Core Records
+Mail Merge Template,Core Records
+Mobile Offline Profile,Core Records
+Note,Core Records
+Opportunity,Core Records
+Opportunity Relationship,Core Records
+Person,Core Records
+Post,Core Records
+Prospect,Core Records
+Queue,Core Records
+Relationship Role,Core Records
+Report,Core Records
+Saved Organization Insights Configuration,Core Records
+Saved View,Core Records
+SharePoint Site,Core Records
+Social Profile,Core Records
+Subject,Core Records
+Sync Error,Core Records
+Trace,Core Records
+User Chart,Core Records
+User Dashboard,Core Records
+User Entity Instance Data,Core Records
+User Entity UI Settings,Core Records
+User Mapping,Core Records
+Web Wizard,Core Records
+Web Wizard Access Privilege,Core Records
+Wizard Page,Core Records
+Add Reporting Services Reports,Core Records.Miscellaneous Privileges
+Delete Audit Partitions,Core Records.Miscellaneous Privileges
+Manage Data Encryption key - Change,Core Records.Miscellaneous Privileges
+Manage User Synchronization Filters,Core Records.Miscellaneous Privileges
+Publish Email Templates,Core Records.Miscellaneous Privileges
+Publish Reports,Core Records.Miscellaneous Privileges
+View Audit History,Core Records.Miscellaneous Privileges
+View Audit Summary,Core Records.Miscellaneous Privileges
+Bulk Delete,Core Records.Miscellaneous Privileges
+Manage Data Encryption key - Activate,Core Records.Miscellaneous Privileges
+Manage Data Encryption key - Read,Core Records.Miscellaneous Privileges
+Publish Duplicate Detection Rules,Core Records.Miscellaneous Privileges
+Publish Mail Merge Templates to Organization,Core Records.Miscellaneous Privileges
+Run SharePoint Integration Wizard,Core Records.Miscellaneous Privileges
+View Audit Partitions,Core Records.Miscellaneous Privileges
+OneDrive for Business,Core Records.Miscellaneous Privileges
+Delete Audit Record Change History,Core Records.Miscellaneous Privileges
+Campaign,Marketing
+Marketing List,Marketing
+Configure Internet Marketing module,Marketing.Miscellaneous Privileges
+Use internet marketing module,Marketing.Miscellaneous Privileges
+Create Quick Campaign,Marketing.Miscellaneous Privileges
+Competitor,Sales
+Invoice,Sales
+Order,Sales
+Product,Sales
+Property,Sales
+Property Association,Sales
+Property Instance,Sales
+Property Option Set Item,Sales
+Quote,Sales
+Sales Literature,Sales
+Territory,Sales
+Override Invoice Pricing,Sales.Miscellaneous Privileges
+Override Order Pricing,Sales.Miscellaneous Privileges
+Override Quote Pricing,Sales.Miscellaneous Privileges
+Override Opportunity Pricing,Sales.Miscellaneous Privileges
+Override Quote Order Invoice Delete,Sales.Miscellaneous Privileges
+Article,Service
+Article Template,Service
+Bookable Resource,Service
+Bookable Resource Booking,Service
+Bookable Resource Booking Header,Service
+Bookable Resource Category,Service
+Bookable Resource Category Assn,Service
+Bookable Resource Characteristic,Service
+Bookable Resource Group,Service
+Booking Status,Service
+Case,Service
+Characteristic,Service
+Contract,Service
+Contract Template,Service
+Knowledge Article,Service
+KnowledgeArticle Views,Service
+Rating Model,Service
+Rating Value,Service
+Approve Knowledge Articles,Service.Miscellaneous Privileges
+Publish Knowledge Articles,Service.Miscellaneous Privileges
+Publish Articles,Service.Miscellaneous Privileges
+Business Unit,Business Managment
+Channel Property Group,Business Managment
+Currency,Business Managment
+Document Template,Business Managment
+Email Server Profile,Business Managment
+Field Security Profile,Business Managment
+Field Sharing,Business Managment
+Goal,Business Managment
+Goal Metric,Business Managment
+Mailbox,Business Managment
+Mailbox Auto Tracking Folder,Business Managment
+Organization,Business Managment
+Personal Document Template,Business Managment
+Position,Business Managment
+Principal Sync Attribute Map,Business Managment
+Rollup Query,Business Managment
+Security Role,Business Managment
+Sync Attribute Mapping Profile,Business Managment
+Team,Business Managment
+User,Business Managment
+User Settings,Business Managment
+Document Generation,Business Management.Privacy Related Privileges
+Dynamics 365 for phones express,Business Management.Privacy Related Privileges
+Go Offline in Outlook,Business Management.Privacy Related Privileges
+Print,Business Management.Privacy Related Privileges
+Use Dynamics 365 App for Outlook,Business Management.Privacy Related Privileges
+Dynamics 365 for mobile,Business Management.Privacy Related Privileges
+Export to Excel,Business Management.Privacy Related Privileges
+Mail Merge,Business Management.Privacy Related Privileges
+Sync to Outlook,Business Management.Privacy Related Privileges
+Act on Behalf of Another User,Business Management.Miscellaneous Privileges
+Assign manager for a user,Business Management.Miscellaneous Privileges
+Assign Territory to User,Business Management.Miscellaneous Privileges
+Change Hierarchy Security Settings,Business Management.Miscellaneous Privileges
+Enable or Disable Business Unit,Business Management.Miscellaneous Privileges
+Language Settings,Business Management.Miscellaneous Privileges
+Override Created on or Created by for Records during Data Import,Business Management.Miscellaneous Privileges
+Read License info,Business Management.Miscellaneous Privileges
+Reparent team,Business Management.Miscellaneous Privileges
+Send Email as Another User,Business Management.Miscellaneous Privileges
+Update Business Closures,Business Management.Miscellaneous Privileges
+Approve Email Addresses for Users or Queues,Business Management.Miscellaneous Privileges
+Assign position for a user,Business Management.Miscellaneous Privileges
+Bulk Edit,Business Management.Miscellaneous Privileges
+Dynamics 365 Address Book,Business Management.Miscellaneous Privileges
+Enable or Disable User,Business Management.Miscellaneous Privileges
+Merge,Business Management.Miscellaneous Privileges
+Perform in sync rollups on goals,Business Management.Miscellaneous Privileges
+Reparent Business unit,Business Management.Miscellaneous Privileges
+Reparent user,Business Management.Miscellaneous Privileges
+Send Invitation,Business Management.Miscellaneous Privileges
+Web Mail Merge,Business Management.Miscellaneous Privileges
+Calendar,Service Managment
+Entitlement,Service Managment
+Entitlement Template,Service Managment
+Facility/Equipment,Service Managment
+Knowledge Base Record,Service Managment
+Record Creation and Update Rule,Service Managment
+Routing Rule Set,Service Managment
+Service,Service Managment
+Site,Service Managment
+SLA,Service Managment
+SLA KPI Instance,Service Managment
+Browse Availability,Service Management.Miscellaneous Privileges
+Create own calendar,Service Management.Miscellaneous Privileges
+Read own calendar,Service Management.Miscellaneous Privileges
+Update Holiday Schedules,Service Management.Miscellaneous Privileges
+Control Decrement Terms,Service Management.Miscellaneous Privileges
+Delete own calendar,Service Management.Miscellaneous Privileges
+Search Availability,Service Management.Miscellaneous Privileges
+Write own calendar,Service Management.Miscellaneous Privileges
+App,Customization
+Attribute Map,Customization
+Custom Control,Customization
+Custom Control Default Config,Customization
+Custom Control Resource,Customization
+Customizations,Customization
+Entity,Customization
+Entity Key,Customization
+Entity Map,Customization
+Field,Customization
+Hierarchy Rule,Customization
+Import Job,Customization
+Option Set,Customization
+Plug-in Assembly,Customization
+Plug-in Trace Log,Customization
+Plug-in Type,Customization
+Process,Customization
+Process Configuration,Customization
+Process Session,Customization
+Publisher,Customization
+Relationship,Customization
+Sdk Message,Customization
+Sdk Message Processing Step,Customization
+Sdk Message Processing Step Image,Customization
+Sdk Message Processing Step Secure Configuration,Customization
+Service Endpoint,Customization
+Solution,Customization
+System Application Metadata,Customization
+System Chart,Customization
+System Form,Customization
+System Job,Customization
+Theme,Customization
+User Application Metadata,Customization
+View,Customization
+Web Resource,Customization
+Activate Business Process Flows,Customization.Miscellaneous Privileges
+Activate Real-time Processes,Customization.Miscellaneous Privileges
+Execute Workflow Job,Customization.Miscellaneous Privileges
+Import Customizations,Customization.Miscellaneous Privileges
+Learning Path Authoring,Customization.Miscellaneous Privileges
+Publish Customizations,Customization.Miscellaneous Privileges
+Activate Business Rules,Customization.Miscellaneous Privileges
+Configure Yammer,Customization.Miscellaneous Privileges
+Export Customizations,Customization.Miscellaneous Privileges
+ISV Extensions,Customization.Miscellaneous Privileges
+Modify Customization constraints,Customization.Miscellaneous Privileges
+Retrieve Multiple Social Insights,Customization.Miscellaneous Privileges
