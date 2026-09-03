@@ -7,8 +7,6 @@ using System.Windows.Forms;
 
 namespace Dynamic_365_Role_Extractor_App
 {
-    //Merge branch issue check
-    //test comment
     static class Program
     {
         /// <summary>
